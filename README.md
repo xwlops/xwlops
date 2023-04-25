@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/coding.gif" /><br>
+  <img src="./assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -20,7 +20,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
   
 </div>
 
@@ -44,14 +44,14 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/hr.gif" />
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xwlops&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xwlops&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 <div align="center" >
 
 <!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> -->
+<!-- <img src="./assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> -->
 
 <!--  skill badge 技能徽章 -->
 
@@ -72,24 +72,24 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
 
 <!-- gif -->
-<!-- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/github.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/zabbix.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/jenkins.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/lambda.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/shell.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/linux.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/prometheus.webp"> -->
+<!-- <img height="100" width="100" src="./assets/images/vscode.webp">
+<img height="100" width="100" src="./assets/images/python.webp">
+<img height="100" width="100" src="./assets/images/github.webp">
+<img height="100" width="100" src="./assets/images/zabbix.webp">
+<img height="100" width="100" src="./assets/images/jenkins.webp">
+<img height="100" width="100" src="./assets/images/lambda.webp">
+<img height="100" width="100" src="./assets/images/shell.webp">
+<img height="100" width="100" src="./assets/images/linux.webp">
+<img height="100" width="100" src="./assets/images/prometheus.webp"> -->
 <!-- just img 图片 -->
 <img src="./assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/hr.gif" /> -->
+<!-- <img width="200%" src="./assets/images/hr.gif" /> -->
 
 <div align="center" >
 

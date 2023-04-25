@@ -20,7 +20,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/profile-snake-contrib/github-contribution-grid-snake.svg" />
   
 </div>
 
@@ -45,11 +45,13 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/hr.gif" />
-
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xwlops&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xwlops&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> -->
 
 <!--  skill badge 技能徽章 -->
 
@@ -83,11 +85,11 @@
 <img src="./assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="./assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops/assets/images/hr.gif" /> -->
 
 <div align="center" >
 
@@ -100,9 +102,7 @@
 <!-- GitHub 奖杯🏆 -->
 <!-- <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br> -->
 
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xwlops&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xwlops&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+
 <!-- Awesome repo 比较好的仓库-->
 <!-- <a href="https://github.com/xwlops/Awesome-Love-Code">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xwlops&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
@@ -124,5 +124,5 @@
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="./assets/images/hr.gif" /> -->
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/> -->
 </div>

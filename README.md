@@ -21,7 +21,7 @@
     <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=xwlops" alt="访客统计" />
+    <img src="https://komarev.com/ghpvc/?username=xwlops&label=%20%20访客统计%20&%20color=0e75b6&style=flat" alt="访客统计" />
   </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" />

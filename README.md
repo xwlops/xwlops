@@ -48,15 +48,15 @@
 
 🧰 常用的工具
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)   ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6900?logo=Ubuntu&logoColor=fff&style=flat) ![notion](https://img.shields.io/badge/Notion-5C2D91?logo=notion&logoColor=fff&style=flat)  ![Hugo](https://img.shields.io/badge/Hugo-ff4088?logo=hugo&logoColor=fff&style=flat) ![Slack](https://img.shields.io/badge/Slack-097eff?logo=Slack) ![Gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail)![Gmail](https://img.shields.io/badge/Telegram-0073aa?logo=Telegram)
+![Mac Badge](https://img.shields.io/badge/MacOS-FF6900?logo=macos&logoColor=fff&style=flat)   ![Lenovo Badge](https://img.shields.io/badge/Linux-E2231A?logo=Linux&logoColor=fff&style=flat)  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6900?logo=Ubuntu&logoColor=fff&style=flat) ![notion](https://img.shields.io/badge/Notion-5C2D91?logo=notion&logoColor=fff&style=flat)  ![Hugo](https://img.shields.io/badge/Hugo-ff4088?logo=hugo&logoColor=fff&style=flat) ![Slack](https://img.shields.io/badge/Slack-097eff?logo=Slack) ![Gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail)![Telegram](https://img.shields.io/badge/Telegram-0073aa?logo=Telegram)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=aws,ansible,bash,cloudflare,discord,docker,dynamodb,gcp,git,github,gitlab,grafana,instagram,jenkins,kafka,kubernetes,linux,md,mysql,nginx,openstack,powershell,prometheus,py,redis,twitter,vercel,vim,vscode,wordpress" /><br>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,bash,cloudflare,discord,docker,dynamodb,gcp,git,github,gitlab,grafana,jenkins,kafka,kubernetes,linux,md,mysql,nginx,openstack,powershell,prometheus,py,redis,twitter,vercel,vim,vscode,wordpress" /><br>
 <img width="200%" src="./assets/images/hr.gif" />
 <img src="./assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 <div align="center" >
-</div>
+</div> -->

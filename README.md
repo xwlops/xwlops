@@ -24,7 +24,11 @@
     <img src="https://komarev.com/ghpvc/?username=xwlops&label=%20%20访客统计%20&%20color=0e75b6&style=flat" alt="访客统计" />
   </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xwlops/xwlops@snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xwlops/xwlops@snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xwlops/xwlops@snake/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 #  🙋 Hello
 
